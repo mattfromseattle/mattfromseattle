@@ -6,9 +6,15 @@
     text-align: center;
 }
 
+#mainContent a {
+    color:#04080f;
+    text-decoration: none;
+}
+
 body {
     background: #dae3e5;
     font: normal 300 18px "Roboto", sans-serif;
+    color: #04080f;
   }
   
   #menu-nav {
