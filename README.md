@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **AI Engineering.**  
-🌱 &nbsp;I'm currently learning **Python.**  
+🌱 &nbsp;I'm currently learning **more about AI Agents.**  
 😄 &nbsp;Pronouns: **He/Him**
 
 ### 🛠️ Tech Stack
